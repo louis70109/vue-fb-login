@@ -1,22 +1,19 @@
-# test-vue
+# 測試專案
 
-> A Vue.js project
+> 使用 axios 試玩 JS30 中第六天的功能（搜尋美國州）
+> FB 登入終於完成了ＴＡＴ
+
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
+yarn
 
 # serve with hot reload at localhost:8080
-npm run dev
+yarn dev
 
 # build for production with minification
-npm run build
+yarn build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# vue-test-1
